@@ -1,0 +1,125 @@
+_Interface$ /bin/python "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py"
+Unicode Decode Error:
+ 'utf-8' codec can't decode byte 0xe5 in position 0: invalid continuation byte
+not sufficient data. Wait till you have a full pair.
+Temp =  32.00
+not sufficient data. Wait till you have a full pair.
+PID output =  30.00
+&field2= 30.00ingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1= 32.00
+Traceback (most recent call last):
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 58, in <module>
+    sendToThingspeak(temp,pid)
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 26, in sendToThingspeak
+    myupdater.sendData(temperature,PID)
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/thingspeak_sample.py", line 31, in sendData
+    f = urlopen(newRequest)
+  File "/usr/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 1397, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/lib/python3.8/urllib/request.py", line 1354, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.8/http/client.py", line 1256, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1267, in _send_request
+    self.putrequest(method, url, **skips)
+  File "/usr/lib/python3.8/http/client.py", line 1101, in putrequest
+    self._validate_path(url)
+  File "/usr/lib/python3.8/http/client.py", line 1201, in _validate_path
+    raise InvalidURL(f"URL can't contain control characters. {url!r} "
+http.client.InvalidURL: URL can't contain control characters. '/update?api_key=KRP150IRYKRPKMQ9&field1= 32.00\r&field2= 30.00' (found at least ' ')
+research@research-Latitude-E7440:~/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface$ /bin/python "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py"
+Unicode Decode Error:
+ 'utf-8' codec can't decode byte 0xf0 in position 0: invalid continuation byte
+not sufficient data. Wait till you have a full pair.
+Temp =  32.00
+not sufficient data. Wait till you have a full pair.
+PID output =  30.00
+&field2= 30.00ingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1= 32.00
+Traceback (most recent call last):
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 59, in <module>
+    sendToThingspeak(temp,pid)
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 26, in sendToThingspeak
+    myupdater.sendData(temperature,PID)
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/thingspeak_sample.py", line 31, in sendData
+    f = urlopen(newRequest)
+  File "/usr/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 1397, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/lib/python3.8/urllib/request.py", line 1354, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.8/http/client.py", line 1256, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1267, in _send_request
+    self.putrequest(method, url, **skips)
+  File "/usr/lib/python3.8/http/client.py", line 1101, in putrequest
+    self._validate_path(url)
+  File "/usr/lib/python3.8/http/client.py", line 1201, in _validate_path
+    raise InvalidURL(f"URL can't contain control characters. {url!r} "
+http.client.InvalidURL: URL can't contain control characters. '/update?api_key=KRP150IRYKRPKMQ9&field1= 32.00\r&field2= 30.00' (found at least ' ')
+research@research-Latitude-E7440:~/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface$ /bin/python "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py"
+not sufficient data. Wait till you have a full pair.
+Temp = 32.00
+not sufficient data. Wait till you have a full pair.
+PID output = 30.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=30.00
+Data Sent Successfully
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=30.00
+Data Sent Successfully
+Temp = 34.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=34.00&field2=30.00
+Data Sent Successfully
+PID output = 30.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=34.00&field2=30.00
+Data Sent Successfully
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=34.00&field2=30.00
+Data Sent Successfully
+Temp = 33.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=30.00
+Data Sent Successfully
+PID output = 30.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=30.00
+Data Sent Successfully
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=30.00
+Data Sent Successfully
+Temp = 33.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=30.00
+Data Sent Successfully
+PID output = 23.50
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=23.50
+Data Sent Successfully
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=33.00&field2=23.50
+Data Sent Successfully
+Temp = 32.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=23.50
+Data Sent Successfully
+PID output = 23.50
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=23.50
+Data Sent Successfully
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=23.50
+Data Sent Successfully
+Temp = 32.00
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=23.50
+Data Sent Successfully
+PID output = 23.50
+https://api.thingspeak.com/update?api_key=KRP150IRYKRPKMQ9&field1=32.00&field2=23.50
+Data Sent Successfully
+^CTraceback (most recent call last):
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 61, in <module>
+    sendToThingspeak(temp,pid)
+  File "/home/research/Downloads/bibbie sungwa project/DISSERTATION ARDUINO PROJECT/00 Fan_Control_Git/Arduino_Interface/serialInterface_noExceptionHandling.py", line 28, in sendToThingspeak
+    sleep(5)
+KeyboardInterrupt

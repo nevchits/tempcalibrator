@@ -11,10 +11,14 @@ void loop()       //main loop
 
 {
 int analogValue = analogRead(LM35output);
-float millivolts = (analogValue/1024.0) * 1000; //3300 is the voltage provided by NodeMCU. 1000mv is the maximum the node can read :(
+float millivolts = (analogValue/1024.0) * 3300; //3300 is the voltage provided by NodeMCU. 1000mv is the maximum the node can read :(
+//float millivolts = (analogValue/1024.0) * 5000; //for Arduino UNO
 float celsius = millivolts/10;
-Serial.print("in DegreeC=   ");
-Serial.println(celsius);
+Serial.print(analogValue);
+Serial.print(" -> ");
+Serial.println(millivolts);
+//Serial.print("in DegreeC=   ");
+//Serial.println(celsius);
 
 //---------- Here is the calculation for Fahrenheit ----------//
 

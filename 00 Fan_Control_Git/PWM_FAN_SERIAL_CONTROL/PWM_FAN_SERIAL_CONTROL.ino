@@ -23,9 +23,9 @@
 */
 
 // the setup function runs once when you press reset or power the board
-#define FAN 9
+#define FAN 2
 
-#define FAN_MAX_RATE 255;
+#define FAN_MAX_RATE 1023
 
 int fan_rate = 0;
 int init_speed = 0;
@@ -35,6 +35,7 @@ int init_speed = 0;
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(FAN, OUTPUT);
+  digitalWrite(FAN,LOW);
   Serial.begin(9600);
   Serial.println("PWM FAN Test");
 }
@@ -51,8 +52,8 @@ void loop() {
     
 
     if (Serial.read() == '\n') {
-      // constrain the values to 0 - 255
-      top_speed = constrain(top_speed, 0, 255);
+      // constrain the values to 0 - 255/ 1023
+      top_speed = constrain(top_speed, 0, FAN_MAX_RATE);
 
       Serial.print("Top Speed: ");
       Serial.println(top_speed);
@@ -63,7 +64,7 @@ void loop() {
        for (int i=init_speed; i <= top_speed; i++) {
         fan_rate = i;
         analogWrite(FAN, fan_rate);
-        int fan_percent = map(fan_rate, 0, 255, 0, 100);
+        int fan_percent = map(fan_rate, 0, FAN_MAX_RATE, 0, 100);
         Serial.print(fan_percent);
         Serial.println("%");
         delay(acceleration);  //should take 15.3 seconds to full speed. you should put in validation controls. like what if someone doest enter a second int?
@@ -74,7 +75,7 @@ void loop() {
           for (int i=init_speed; i > top_speed; i--) {
           fan_rate = i;
           analogWrite(FAN, fan_rate);
-          int fan_percent = map(fan_rate, 0, 255, 0, 100);
+          int fan_percent = map(fan_rate, 0, FAN_MAX_RATE, 0, 100);
           Serial.print(fan_percent);
           Serial.println("%");
           delay(acceleration);  //should take 15.3 seconds to full speed. you should put in validation controls. like what if someone doest enter a second int?

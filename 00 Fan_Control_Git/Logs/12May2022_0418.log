@@ -1,0 +1,1827 @@
+-------------- PID Test ---------------
+New Set Point = 12.00
+Input --> 37.00
+Calculated output --> 0.00
+
+New Set Point = 0.00
+Input --> 36.00
+Calculated output --> 0.00
+
+New Set Point = 40.00
+Input --> 36.00
+Calculated output --> 10.00
+
+New Set Point = 0.00
+Input --> 37.00
+Calculated output --> 0.00
+
+-------------- PID Test ---------------
+-------------- PID Test ---------------
+New Set Point = 44.00
+Input --> 35.00
+Calculated output --> 22.50
+
+New Set Point = 44.00
+Input --> 35.00
+Calculated output --> 27.00
+
+New Set Point = 44.00
+Input --> 58.00
+Calculated output --> 0.00
+
+New Set Point = 44.00
+Input --> 48.00
+Calculated output --> 92.00
+
+New Set Point = 44.00
+Input --> 48.00
+Calculated output --> 0.00
+
+New Set Point = 44.00
+Input --> 43.00
+Calculated output --> 52.50
+
+New Set Point = 44.00
+Input --> 43.00
+Calculated output --> 3.00
+
+New Set Point = 44.00
+Input --> 46.00
+Calculated output --> 0.00
+
+New Set Point = 44.00
+Input --> 43.00
+Calculated output --> 32.50
+
+New Set Point = 44.00
+Input --> 43.00
+Calculated output --> 3.00
+
+New Set Point = 44.00
+Input --> 42.00
+Calculated output --> 16.00
+
+New Set Point = 1.00
+Input --> 41.00
+Calculated output --> 0.00
+
+New Set Point = 1.00
+Input --> 41.00
+Calculated output --> 0.00
+
+New Set Point = 2.00
+Input --> 39.00
+Calculated output --> 0.00
+
+New Set Point = 2.00
+Input --> 39.00
+Calculated output --> 0.00
+
+-------------- PID Test ---------------
+Input --> 36.00
+Calcul⸮-------------- PID Test ---------------
+Input --> 36.00
+Calculated output --> 20.00
+
+Input --> 38.00
+Calculated output --> 20.00
+
+Input --> 37.00
+Calculated output --> 20.00
+
+Input --> 37.00
+Calculated output --> 11.50
+
+Input --> 37.00
+Calculated output --> 11.50
+
+Input --> 37.00
+Calculated output --> 11.50
+
+Input --> 37.00
+Calculated output --> 25.00
+
+Input --> 37.00
+Calculated output --> 25.00
+
+Input --> 37.00
+Calculated output --> 28.50
+
+Input --> 40.00
+Calculated output --> 28.50
+
+Input --> 37.00
+Calculated output --> 32.00
+
+Input --> 37.00
+Calculated output --> 32.00
+
+Input --> 38.00
+Calculated output --> 32.00
+
+Input --> 35.00
+Calculated output --> 60.50
+
+Input --> 37.00
+Calculated output --> 60.50
+
+Input --> 35.00
+Calculated output --> 45.00
+
+Input --> 37.00
+Calculated output --> 45.00
+
+Input --> 37.00
+Calculated output --> 45.00
+
+Input --> 37.00
+Calculated output --> 24.50
+
+Input --> 37.00
+Calculated output --> 24.50
+
+Input --> 37.00
+Calculated output --> 48.00
+
+Input --> 37.00
+Calculated output --> 48.00
+
+Input --> 37.00
+Calculated output --> 51.50
+
+Input --> 36.00
+Calculated output --> 51.50
+
+Input --> 39.00
+Calculated output --> 51.50
+
+Input --> 37.00
+Calculated output --> 55.00
+
+Input --> 38.00
+Calculated output --> 55.00
+
+Input --> 36.00
+Calculated output --> 71.00
+
+Input --> 37.00
+Calculated output --> 71.00
+
+Input --> 37.00
+Calculated output --> 71.00
+
+Input --> 39.00
+Calculated output --> 27.50
+
+Input --> 37.00
+Calculated output --> 27.50
+
+Input --> 38.00
+Calculated output --> 72.50
+
+Input --> 36.00
+Calculated output --> 72.50
+
+Input --> 38.00
+Calculated output --> 65.50
+
+Input --> 35.00
+Calculated output --> 65.50
+
+Input --> 36.00
+Calculated output --> 65.50
+
+Input --> 38.00
+Calculated output --> 68.50
+
+Input --> 37.00
+Calculated output --> 68.50
+
+Input --> 37.00
+Calculated output --> 84.00
+
+Input --> 37.00
+Calculated output --> 84.00
+
+Input --> 38.00
+Calculated output --> 84.00
+
+Input --> 37.00
+Calculated output --> 77.50
+
+Input --> 38.00
+Calculated output --> 77.50
+
+Input --> 37.00
+Calculated output --> 81.00
+
+Input --> 37.00
+Calculated output --> 81.00
+
+Input --> 37.00
+Calculated output --> 84.50
+
+Input --> 37.00
+Calculated output --> 84.50
+
+Input --> 37.00
+Calculated output --> 84.50
+
+Input --> 37.00
+Calculated output --> 88.00
+
+Input --> 37.00
+Calculated output --> 88.00
+
+Input --> 36.00
+Calculated output --> 104.00
+
+Input --> 39.00
+Calculated output --> 104.00
+
+Input --> 36.00
+Calculated output --> 98.00
+
+Input --> 38.00
+Calculated output --> 98.00
+
+Input --> 38.00
+Calculated output --> 77.00
+
+Input --> 39.00
+Calculated output --> 77.00
+
+Input --> 38.00
+Calculated output --> 77.00
+
+Input --> 37.00
+Calculated output --> 112.50
+
+Input --> 36.00
+Calculated output --> 112.50
+
+Input --> 39.00
+Calculated output --> 81.00
+
+Input --> 38.00
+Calculated output --> 81.00
+
+Input --> 38.00
+Calculated output --> 116.00
+
+Input --> 38.00
+Calculated output --> 116.00
+
+Input --> 38.00
+Calculated output --> 109.00
+
+Input --> 37.00
+Calculated output --> 109.00
+
+Input --> 37.00
+Calculated output --> 124.50
+
+Input --> 37.00
+Calculated output --> 124.50
+
+Input --> 37.00
+Calculated output --> 118.00
+
+Input --> 37.00
+Calculated output --> 118.00
+
+Input --> 38.00
+Calculated output --> 109.00
+
+Input --> 37.00
+Calculated output --> 109.00
+
+Input --> 37.00
+Calculated output --> 134.50
+
+Input --> 37.00
+Calculated output --> 134.50
+
+Input --> 37.00
+Calculated output --> 128.00
+
+Input --> 38.00
+Calculated output --> 128.00
+
+Input --> 35.00
+Calculated output --> 156.50
+
+Input --> 36.00
+Calculated output --> 156.50
+
+Input --> 37.00
+Calculated output --> 116.00
+
+Input --> 34.00
+Calculated output --> 116.00
+
+Input --> 37.00
+Calculated output --> 139.50
+
+Input --> 36.00
+Calculated output --> 139.50
+
+Input --> 38.00
+Calculated output --> 130.50
+
+Input --> 37.00
+Calculated output --> 130.50
+
+Input --> 37.00
+Calculated output --> 156.00
+
+Input --> 36.00
+Calculated output --> 156.00
+
+Input --> 37.00
+Calculated output --> 149.50
+
+Input --> 37.00
+Calculated output --> 149.50
+
+Input --> 37.00
+Calculated output --> 153.00
+
+Input --> 37.00
+Calculated output --> 153.00
+
+Input --> 38.00
+Calculated output --> 144.00
+
+Input --> 36.00
+Calculated output --> 144.00
+
+Input --> 38.00
+Calculated output --> 157.00
+
+Input --> 37.00
+Calculated output --> 157.00
+
+Input --> 37.00
+Calculated output --> 172.50
+
+Input --> 37.00
+Calculated output --> 172.50
+
+Input --> 36.00
+Calculated output --> 178.50
+
+Input --> 40.00
+Calculated output --> 178.50
+
+Input --> 39.00
+Calculated output --> 135.00
+
+Input --> 38.00
+Calculated output --> 135.00
+
+Input --> 38.00
+Calculated output --> 180.00
+
+Input --> 39.00
+Calculated output --> 180.00
+
+Input --> 37.00
+Calculated output --> 185.50
+
+Input --> 37.00
+Calculated output --> 185.50
+
+Input --> 37.00
+Calculated output --> 179.00
+
+Input --> 37.00
+Calculated output --> 179.00
+
+Input --> 38.00
+Calculated output --> 170.00
+
+Input --> 38.00
+Calculated output --> 170.00
+
+Input --> 38.00
+Calculated output --> 183.00
+
+Input --> 36.00
+Calculated output --> 183.00
+
+Input --> 37.00
+Calculated output --> 198.50
+
+Input --> 37.00
+Calculated output --> 198.50
+
+Input --> 37.00
+Calculated output --> 192.00
+
+Input --> 37.00
+Calculated output --> 192.00
+
+Input --> 38.00
+Calculated output --> 183.00
+
+Input --> 37.00
+Calculated output --> 183.00
+
+Input --> 37.00
+Calculated output --> 208.50
+
+Input --> 37.00
+Calculated output --> 208.50
+
+Input --> 38.00
+Calculated output --> 189.50
+
+Input --> 38.00
+Calculated output --> 189.50
+
+Input --> 38.00
+Calculated output --> 202.50
+
+Input --> 36.00
+Calculated output --> 202.50
+
+Input --> 37.00
+Calculated output --> 218.00
+
+Input --> 38.00
+Calculated output --> 218.00
+
+Input --> 38.00
+Calculated output --> 199.00
+
+Input --> 36.00
+Calculated output --> 199.00
+
+Input --> 37.00
+Calculated output --> 224.50
+
+Input --> 37.00
+Calculated output --> 224.50
+
+Input --> 37.00
+Calculated output --> 218.00
+
+Input --> 37.00
+Calculated output --> 218.00
+
+Input --> 35.00
+Calculated output --> 246.50
+
+Input --> 37.00
+Calculated output --> 246.50
+
+Input --> 36.00
+Calculated output --> 218.50
+
+Input --> 37.00
+Calculated output --> 218.50
+
+Input --> 37.00
+Calculated output --> 220.00
+
+Input --> 36.00
+Calculated output --> 220.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 205.50
+
+Input --> 37.00
+Calculated output --> 205.50
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 235.00
+
+Input --> 37.00
+Calculated output --> 235.00
+
+Input --> 37.00
+Calculated output --> 248.50
+
+Input --> 37.00
+Calculated output --> 248.50
+
+Input --> 38.00
+Calculated output --> 239.50
+
+Input --> 37.00
+Calculated output --> 239.50
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 39.00
+Calculated output --> 245.00
+
+Input --> 37.00
+Calculated output --> 245.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 33.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 32.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 40.00
+Calculated output --> 223.00
+
+Input --> 38.00
+Calculated output --> 223.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 247.00
+
+Input --> 37.00
+Calculated output --> 247.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 39.00
+Calculated output --> 255.00
+
+Input --> 40.00
+Calculated output --> 213.00
+
+Input --> 42.00
+Calculated output --> 213.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 41.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 43.00
+Calculated output --> 255.00
+
+Input --> 39.00
+Calculated output --> 245.00
+
+Input --> 37.00
+Calculated output --> 245.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 36.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 31.00
+Calculated output --> 255.00
+
+Input --> 30.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 35.00
+Calculated output --> 223.00
+
+Input --> 37.00
+Calculated output --> 223.00
+
+Input --> 37.00
+Calculated output --> 249.00
+
+Input --> 35.00
+Calculated output --> 249.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 41.00
+Calculated output --> 221.00
+
+Input --> 36.00
+Calculated output --> 221.00
+
+Input --> 41.00
+Calculated output --> 255.00
+
+Input --> 26.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 33.00
+Calculated output --> 255.00
+
+Input --> 37.00
+Calculated output --> 255.00
+
+Input --> 39.00
+Calculated output --> 255.00
+
+Input --> 45.00
+Calculated output --> 172.50
+
+Input --> 40.00
+Calculated output --> 172.50
+
+Input --> 28.00
+Calculated output --> 255.00
+
+Input --> 39.00
+Calculated output --> 255.00
+
+Input --> 16.00
+Calculated output --> 255.00
+
+Input --> 38.00
+Calculated output --> 255.00
+
+Input --> 45.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 27.00
+Calculated output --> 0.00
+
+Input --> 0.00
+Calculated output --> 255.00
+
+Input --> 192.00
+Calculated output --> 255.00
+
+Input --> 97.00
+Calculated output --> 0.00
+
+Input --> 166.00
+Calculated output --> 0.00
+
+Input --> 132.00
+Calculated output --> 0.00
+
+Input --> 105.00
+Calculated output --> 0.00
+
+Input --> 77.00
+Calculated output --> 0.00
+
+Input --> 59.00
+Calculated output --> 255.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 56.00
+Calculated output --> 177.00
+
+Input --> 48.00
+Calculated output --> 177.00
+
+Input --> 41.00
+Calculated output --> 255.00
+
+Input --> 40.00
+Calculated output --> 255.00
+
+Input --> 41.00
+Calculated output --> 180.00
+
+Input --> 43.00
+Calculated output --> 180.00
+
+Input --> 41.00
+Calculated output --> 181.50
+
+Input --> 43.00
+Calculated output --> 181.50
+
+Input --> 83.00
+Calculated output --> 0.00
+
+Input --> 45.00
+Calculated output --> 0.00
+
+Input --> 39.00
+Calculated output --> 0.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 44.00
+Calculated output --> 255.00
+
+Input --> 42.00
+Calculated output --> 95.50
+
+Input --> 50.00
+Calculated output --> 95.50
+
+Input --> 46.00
+Calculated output --> 95.50
+
+Input --> 42.00
+Calculated output --> 166.50
+
+Input --> 52.00
+Calculated output --> 166.50
+
+Input --> 65.00
+Calculated output --> 0.00
+
+Input --> 34.00
+Calculated output --> 0.00
+
+Input --> 47.00
+Calculated output --> 0.00
+
+Input --> 45.00
+Calculated output --> 255.00
+
+Input --> 45.00
+Calculated output --> 255.00
+
+Input --> 54.00
+Calculated output --> 36.50
+
+Input --> 47.00
+Calculated output --> 36.50
+
+Input --> 45.00
+Calculated output --> 234.00
+
+Input --> 45.00
+Calculated output --> 234.00
+
+Input --> 46.00
+Calculated output --> 131.00
+
+Input --> 83.00
+Calculated output --> 131.00
+
+Input --> 72.00
+Calculated output --> 0.00
+
+Input --> 69.00
+Calculated output --> 0.00
+
+Input --> 47.00
+Calculated output --> 0.00
+
+Input --> 42.00
+Calculated output --> 255.00
+
+Input --> 47.00
+Calculated output --> 255.00
+
+Input --> 46.00
+Calculated output --> 87.00
+
+Input --> 47.00
+Calculated output --> 87.00
+
+Input --> 47.00
+Calculated output --> 87.00
+
+Input --> 47.00
+Calculated output --> 113.50
+
+Input --> 45.00
+Calculated output --> 113.50
+
+Input --> 47.00
+Calculated output --> 122.00
+
+Input --> 49.00
+Calculated output --> 122.00
+
+Input --> 47.00
+Calculated output --> 120.50
+
+Input --> 48.00
+Calculated output --> 120.50
+
+Input --> 48.00
+Calculated output --> 106.50
+
+Input --> 48.00
+Calculated output --> 106.50
+
+Input --> 48.00
+Calculated output --> 114.50
+
+Input --> 48.00
+Calculated output --> 114.50
+
+Input --> 49.00
+Calculated output --> 100.00
+
+Input --> 48.00
+Calculated output --> 100.00
+
+Input --> 48.00
+Calculated output --> 120.00
+
+Input --> 44.00
+Calculated output --> 120.00
+
+Input --> 52.00
+Calculated output --> 58.00
+
+Input --> 49.00
+Calculated output --> 58.00
+
+Input --> 51.00
+Calculated output --> 58.00
+
+Input --> 52.00
+Calculated output --> 94.00
+
+Input --> 53.00
+Calculated output --> 94.00
+
+Input --> 48.00
+Calculated output --> 140.00
+
+Input --> 50.00
+Calculated output --> 140.00
+
+Input --> 50.00
+Calculated output --> 73.00
+
+Input --> 50.00
+Calculated output --> 73.00
+
+Input --> 49.00
+Calculated output --> 73.00
+
+Input --> 51.00
+Calculated output --> 77.50
+
+Input --> 50.00
+Calculated output --> 77.50
+
+Input --> 49.00
+Calculated output --> 109.00
+
+Input --> 53.00
+Calculated output --> 109.00
+
+Input --> 49.00
+Calculated output --> 86.50
+
+Input --> 50.00
+Calculated output --> 86.50
+
+Input --> 50.00
+Calculated output --> 71.50
+
+Input --> 47.00
+Calculated output --> 71.50
+
+Input --> 52.00
+Calculated output --> 71.50
+
+Input --> 48.00
+Calculated output --> 103.50
+
+Input --> 51.00
+Calculated output --> 103.50
+
+Input --> 51.00
+Calculated output --> 44.00
+
+Input --> 53.00
+Calculated output --> 44.00
+
+Input --> 51.00
+Calculated output --> 70.50
+
+Input --> 53.00
+Calculated output --> 70.50
+
+Input --> 57.00
+Calculated output --> 70.50
+
+Input --> 43.00
+Calculated output --> 167.00
+
+Input --> 50.00
+Calculated output --> 167.00
+
+Input --> 49.00
+Calculated output --> 12.50
+
+Input --> 50.00
+Calculated output --> 12.50
+
+Input --> 50.00
+Calculated output --> 12.50
+
+Input --> 50.00
+Calculated output --> 57.50
+
+Input --> 50.00
+Calculated output --> 57.50
+
+Input --> 50.00
+Calculated output --> 64.50
+
+Input --> 50.00
+Calculated output --> 64.50
+
+Input --> 50.00
+Calculated output --> 61.50
+
+Input --> 50.00
+Calculated output --> 61.50
+
+Input --> 50.00
+Calculated output --> 61.50
+
+Input --> 44.00
+Calculated output --> 133.50
+
+Input --> 50.00
+Calculated output --> 133.50
+
+Input --> 49.00
+Calculated output --> 11.00
+
+Input --> 50.00
+Calculated output --> 11.00
+
+Input --> 51.00
+Calculated output --> 11.00
+
+Input --> 49.00
+Calculated output --> 58.50
+
+Input --> 52.00
+Calculated output --> 58.50
+
+Input --> 50.00
+Calculated output --> 43.50
+
+Input --> 51.00
+Calculated output --> 43.50
+
+Input --> 50.00
+Calculated output --> 50.50
+
+Input --> 48.00
+Calculated output --> 50.50
+
+Input --> 50.00
+Calculated output --> 50.50
+
+Input --> 49.00
+Calculated output --> 60.00
+
+Input --> 49.00
+Calculated output --> 60.00
+
+Input --> 54.00
+Calculated output --> 0.00
+
+Input --> 54.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 35.00
+Calculated output --> 255.00
+
+Input --> 48.00
+Calculated output --> 255.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 22.50
+
+Input --> 49.00
+Calculated output --> 22.50
+
+Input --> 49.00
+Calculated output --> 22.50
+
+Input --> 48.00
+Calculated output --> 64.50
+
+Input --> 49.00
+Calculated output --> 64.50
+
+Input --> 46.00
+Calculated output --> 64.50
+
+Input --> 48.00
+Calculated output --> 42.50
+
+Input --> 50.00
+Calculated output --> 42.50
+
+Input --> 50.00
+Calculated output --> 15.50
+
+Input --> 50.00
+Calculated output --> 15.50
+
+Input --> 50.00
+Calculated output --> 15.50
+
+Input --> 50.00
+Calculated output --> 32.50
+
+Input --> 50.00
+Calculated output --> 32.50
+
+Input --> 49.00
+Calculated output --> 32.50
+
+Input --> 49.00
+Calculated output --> 42.00
+
+Input --> 49.00
+Calculated output --> 42.00
+
+Input --> 49.00
+Calculated output --> 29.50
+
+Input --> 50.00
+Calculated output --> 29.50
+
+Input --> 49.00
+Calculated output --> 29.50
+
+Input --> 50.00
+Calculated output --> 14.50
+
+Input --> 48.00
+Calculated output --> 14.50
+
+Input --> 50.00
+Calculated output --> 21.50
+
+Input --> 50.00
+Calculated output --> 21.50
+
+Input --> 49.00
+Calculated output --> 31.00
+
+Input --> 49.00
+Calculated output --> 31.00
+
+Input --> 50.00
+Calculated output --> 31.00
+
+Input --> 49.00
+Calculated output --> 18.50
+
+Input --> 49.00
+Calculated output --> 18.50
+
+Input --> 50.00
+Calculated output --> 3.50
+
+Input --> 47.00
+Calculated output --> 3.50
+
+Input --> 50.00
+Calculated output --> 3.50
+
+Input --> 50.00
+Calculated output --> 10.50
+
+Input --> 51.00
+Calculated output --> 10.50
+
+Input --> 49.00
+Calculated output --> 20.00
+
+Input --> 55.00
+Calculated output --> 20.00
+
+Input --> 41.00
+Calculated output --> 107.50
+
+Input --> 44.00
+Calculated output --> 107.50
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 47.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 53.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 41.50
+
+Input --> 49.00
+Calculated output --> 41.50
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 43.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 25.50
+
+Input --> 46.00
+Calculated output --> 25.50
+
+Input --> 50.00
+Calculated output --> 25.50
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 38.00
+Calculated output --> 125.00
+
+Input --> 49.00
+Calculated output --> 125.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 53.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 48.00
+Calculated output --> 10.00
+
+Input --> 48.00
+Calculated output --> 2.00
+
+Input --> 49.00
+Calculated output --> 2.00
+
+Input --> 50.00
+Calculated output --> 2.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 46.00
+Calculated output --> 0.00
+
+Input --> 46.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 55.00
+Calculated output --> 0.00
+
+Input --> 47.00
+Calculated output --> 14.00
+
+Input --> 48.00
+Calculated output --> 14.00
+
+Input --> 48.00
+Calculated output --> 14.00
+
+Input --> 47.00
+Calculated output --> 0.00
+
+Input --> 52.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 46.00
+Calculated output --> 36.00
+
+Input --> 49.00
+Calculated output --> 36.00
+
+Input --> 46.00
+Calculated output --> 36.00
+
+Input --> 38.00
+Calculated output --> 95.00
+
+Input --> 50.00
+Calculated output --> 95.00
+
+Input --> 42.00
+Calculated output --> 95.00
+
+Input --> 52.00
+Calculated output --> 0.00
+
+Input --> 55.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 54.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 56.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 46.00
+Calculated output --> 0.00
+
+Input --> 41.00
+Calculated output --> 97.50
+
+Input --> 55.00
+Calculated output --> 97.50
+
+Input --> 42.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 47.00
+Calculated output --> 24.00
+
+Input --> 49.00
+Calculated output --> 24.00
+
+Input --> 49.00
+Calculated output --> 24.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 54.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 16.00
+
+Input --> 49.00
+Calculated output --> 16.00
+
+Input --> 47.00
+Calculated output --> 34.00
+
+Input --> 49.00
+Calculated output --> 34.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 51.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 10.00
+
+Input --> 50.00
+Calculated output --> 10.00
+
+Input --> 48.00
+Calculated output --> 2.00
+
+Input --> 48.00
+Calculated output --> 2.00
+
+Input --> 49.00
+Calculated output --> 2.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 50.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 2.00
+
+Input --> 49.00
+Calculated output --> 2.00
+
+Input --> 48.00
+Calculated output --> 2.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 49.00
+Calculated output --> 0.00
+
+Input --> 48.00
+C
