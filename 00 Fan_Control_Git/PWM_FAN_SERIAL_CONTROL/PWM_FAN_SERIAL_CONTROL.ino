@@ -23,7 +23,7 @@
 */
 
 // the setup function runs once when you press reset or power the board
-#define FAN 2
+#define FAN 9
 
 #define FAN_MAX_RATE 1023
 

@@ -29,7 +29,7 @@
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(FAN, OUTPUT);
-  Serial.begin(4800);
+  Serial.begin(9600);
   Serial.println("FAN Test");
 }
 

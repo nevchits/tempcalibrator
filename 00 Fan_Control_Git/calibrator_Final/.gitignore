@@ -1,0 +1,9 @@
+*.d
+*.o
+*.a
+*.cpp
+*.bin
+*.elf
+*.cache
+build.options.json
+partitiona.csv

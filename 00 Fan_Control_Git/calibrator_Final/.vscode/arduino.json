@@ -1,0 +1,8 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "output": "build/",
+    "port": "/dev/ttyUSB0",
+    "sketch": "calibrator_Final.ino"
+}
