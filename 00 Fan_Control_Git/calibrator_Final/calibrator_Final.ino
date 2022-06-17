@@ -8,6 +8,7 @@
 
 #define PIN_INPUT A2
 #define PIN_OUTPUT 9
+#define FAN 2
 
 //Define Variables we'll be connecting to
 double oldSetpoint, Setpoint, Input, Output;
@@ -21,6 +22,8 @@ void setup()
 {
 
   Serial.begin(9600);
+
+  pinMode(FAN,OUTPUT);
 
   Serial.println("-------------- PID Test ---------------");
   //initialize the variables we're linked to
@@ -56,6 +59,8 @@ void loop()
       Serial.println();
       analogWrite(PIN_OUTPUT, Output);
 
+      checkNeedForFan();
+
       
  // }
   
@@ -73,5 +78,15 @@ void getSetPoint(){
     }
     Serial.print("New Set Point = ");
     Serial.println(Setpoint);
+  }
+}
+
+void checkNeedForFan(){
+  if ((Setpoint < Input) && (Output < 2.0 )){
+    digitalWrite(FAN,HIGH);
+    Serial.println("FAN ON");
+  }
+  else{
+    digitalWrite(FAN,LOW);
   }
 }
